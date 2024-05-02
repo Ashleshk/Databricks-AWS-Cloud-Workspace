@@ -15,23 +15,23 @@ In this workshop, I gained hands-on experience implementing a complete end-to-en
 - Machine learning model building and deployment
 - Working with cloud platforms like AWS
 
-**00_Introduction**
+### 00_Introduction 
 
 ![architecture](images/tools.png)
 
 
-**01_Data Engineering with Delta**.
+### 01_Data Engineering with Delta 
 
 ![dataEng](images/dataEng.png)
 
-**02_Machine Learning with MLFlow**.
+### 02_Machine Learning with MLFlow
 
 ![ml](images/ml.png)
 
-**03_ BI and Data Warehousing**.
+### 03_ BI and Data Warehousing
 
 ![dashboard](images/dashboard.png)
 
-**Next Plan**.
+### Next Plan
 
-![GenAI](images/next%20goal.png)s
+![GenAI](images/next%20goal.png)
